@@ -1,0 +1,45 @@
+;; Object ebdb-db-file-1fe96e4e1698
+;; EBDB file-persistent database
+(ebdb-db-file "ebdb-db-file-1fe96e4e1698"
+:file "ebdb"
+:label "File: ~/.emacs.d/ebdb"
+:uuid
+(ebdb-field-uuid "ebdb-field-uuid-1fe97f55f0ec"
+:uuid "ECB74B03-F545-4B86-B0E9-41254BECE2CC")
+:sync-time '(26228 26400 852551 0)
+:records
+(list
+(ebdb-record-person "ebdb-record-person-1fe95b9f3374"
+:uuid
+(ebdb-field-uuid "ebdb-field-uuid-1fe9638e2b54"
+:uuid "8CA73703-4C5B-42E0-A51A-25F3E920F56E")
+:creation-date
+(ebdb-field-creation-date "ebdb-field-creation-date-1fe96711ddf2"
+:timestamp '(26228 26396 550689 0))
+:timestamp
+(ebdb-field-timestamp "ebdb-field-timestamp-1fe96b39bec0"
+:timestamp '(26228 26418 313169 0))
+:mail
+(list
+(ebdb-field-mail "ebdb-field-mail-1fe963d03cea"
+:mail "jwiegley@gmail.com"
+:priority primary))
+:phone
+(list
+(ebdb-field-phone "ebdb-field-phone-1fe97f4d0e30"
+:label "cell"
+:number "4299581"))
+:address
+(list
+(ebdb-field-address "ebdb-field-address-1fe96bdc3e54"
+:label "home"
+:streets '("3413 Sierra Oaks Drive")
+:locality "Sacramento"
+:region "CA"
+:postcode "95864"
+:country "US"))
+:name
+(ebdb-field-name-complex "ebdb-field-name-complex-1fe967158102"
+:surname "Wiegley"
+:given-names '("John"))))
+:record-class ebdb-record-person)
