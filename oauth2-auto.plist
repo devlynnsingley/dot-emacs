@@ -1,0 +1,2 @@
+;;; public entries -*- mode: plstore -*- 
+(("%28%22jwiegley%40gmail.com%22%20org-gcal%29%0A" :secret-access-token t :secret-refresh-token t :secret-expiration t))
