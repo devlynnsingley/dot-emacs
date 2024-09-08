@@ -1250,3 +1250,19 @@ Please do not edit this section.
 -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
 
 
+* UA1246 DEN to LGA
+:PROPERTIES:
+:LOCATION: Denver (DEN)
+:CREATED:  [2024-09-03 Tue 21:41]
+:OLDID:    3495214i-item-853b3e57-7c24-9000-0003-0001173cb24d@tripit.com
+:END:
+<2024-09-08 Sun 15:05-18:51>
+
+View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/353944697
+4:05 PM MDT
+[Flight] DEN to LGA
+United Airlines 1246
+9:51 PM EDT
+Arrive New York (LGA)
+TripIt - organize your travel at https://www.tripit.com
+
