@@ -3601,3 +3601,198 @@ Please do not edit this section.
 -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
 
 
+* DONE UA213 ORD to SMF
+:PROPERTIES:
+:LOCATION: Chicago (ORD)
+:CREATED:  [2024-09-03 Tue 21:41]
+:OLDID:    3495214i-item-7625806e-c9ab-9000-0003-0001173cb255@tripit.com
+:END:
+- State "DONE"       from              [2024-09-13 Fri 22:16]
+<2024-09-13 Fri 21:25>--<2024-09-14 Sat 01:59>
+
+View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/353944697
+8:25 PM CDT
+[Flight] ORD to SMF
+United Airlines 213
+10:59 PM PDT
+Arrive Sacramento (SMF)
+TripIt - organize your travel at https://www.tripit.com
+
+* DONE UA2243 LGA to ORD
+:PROPERTIES:
+:LOCATION: New York (LGA)
+:CREATED:  [2024-09-03 Tue 21:41]
+:OLDID:    3495214i-item-ebcc22d7-e371-9000-0003-0001173cb251@tripit.com
+:END:
+- State "DONE"       from              [2024-09-13 Fri 22:16]
+<2024-09-13 Fri 17:15-19:51>
+
+View and/or edit details in TripIt : https://www.tripit.com/trip/show/id/353944697
+5:15 PM EDT
+[Flight] LGA to ORD
+United Airlines 2243
+6:51 PM CDT
+Arrive Chicago (ORD)
+1h, 34m layover
+TripIt - organize your travel at https://www.tripit.com
+
+* BD <> Core Engineering 🚀
+:PROPERTIES:
+:CREATED:  [2024-09-03 Tue 21:39]
+:OLDID:    3494374i-3cjngqoep8k5ltu2n6l1rrfcgt@google.com
+:END:
+<2024-08-29 Thu 12:15-13:00>
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/khn-anux-qns
+Or dial: (US) +1 662-626-3313 PIN: 238319261#
+More phone numbers: https://tel.meet/khn-anux-qns?pin=6603040999558&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* Ideasoft Squad Weekly Sync
+:PROPERTIES:
+:CREATED:  [2024-09-03 Tue 21:43]
+:OLDID:    3494374i-41cavrt0valtetsuhh43cguquh_R20240819T170000@google.com
+:END:
+<2024-08-19 Mon 13:00-13:30>
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/jng-wrks-ase
+Or dial: (GR) +30 21 1198 1940 PIN: 822499658#
+More phone numbers: https://tel.meet/jng-wrks-ase?pin=5807250832752&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* Chainweb Standup
+:PROPERTIES:
+:CREATED:  [2024-09-03 Tue 21:43]
+:OLDID:    3494374i-e6k9hc85a5qlid4ku2dughhn1b_R20240708T160000@google.com
+:END:
+<2024-07-08 Mon 12:00-13:00>
+
+Weekly Chainweb standup and roadmap planning.  Time subject to change.
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/ext-rtfh-ivv
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* DevOps Weekly Planning Meeting
+:PROPERTIES:
+:CREATED:  [2024-09-03 Tue 21:39]
+:OLDID:    3494374i-rqto36ads5cgmp6lbgs1cpubgv_R20240826T150000@google.com
+:END:
+<2024-08-26 Mon 11:00-12:00>
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/wmt-edhm-oyg
+Or dial: (US) +1 559-462-5127 PIN: 668910409#
+More phone numbers: https://tel.meet/wmt-edhm-oyg?pin=6053888669246&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* DONE Hack-a-chain: Stand-up [Internal]
+:PROPERTIES:
+:CREATED:  [2024-09-03 Tue 21:37]
+:OLDID:    3494374i-5oj8tedefps76e9nlsb1grv63u_R20240903T161500@google.com
+:END:
+<2024-09-03 Tue 12:15-12:45>
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/but-udvg-nij
+Or dial: (US) +1 814-531-6089 PIN: 323298904#
+More phone numbers: https://tel.meet/but-udvg-nij?pin=1121864854983&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* DONE Eng Standup
+:PROPERTIES:
+:CREATED:  [2024-09-03 Tue 21:37]
+:OLDID:    3494374i-lgod44of2vfi4d426119539ltg_R20240903T153000@google.com
+:END:
+<2024-09-03 Tue 11:30-12:15>
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/npx-mznk-yth
+Or dial: (US) +1 319-435-9117 PIN: 869007855#
+More phone numbers: https://tel.meet/npx-mznk-yth?pin=8637651339384&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* DONE Check out of the ArLo
+:PROPERTIES:
+:CREATED:  [2024-09-06 Fri 22:36]
+:OLDID:    3494374i-0v5fha7q923r5dehebse7hvt4a@google.com
+:END:
+<2024-09-13 Fri 08:00-08:15>
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/xei-xyah-krx
+Or dial: (US) +1 413-438-3765 PIN: 562257229#
+More phone numbers: https://tel.meet/xei-xyah-krx?pin=2905127860616&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+* CANCELED Breakfast @ hotel or nearby
+:PROPERTIES:
+:CREATED:  [2024-09-06 Fri 22:36]
+:OLDID:    3494374i-64db4glpr222462fm9qnhhso6q@google.com
+:END:
+<2024-09-09 Mon 08:00-08:45>
+
+All breakfasts for this week are not pre organized you may grab a bit at the hotel or a near eatery or cafe.
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/yct-iwid-jmh
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+* CANCELED Pact Posse 🂡
+:PROPERTIES:
+:CREATED:  [2024-09-09 Mon 17:14]
+:OLDID:    3494374i-6bph1p94abl15u0h0o3ehd564p_R20240910T183000@google.com
+:END:
+<2024-09-10 Tue 14:30-15:15>
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/zqk-edpc-gsf
+Or dial: (US) +1 636-452-0179 PIN: 216499462#
+More phone numbers: https://tel.meet/zqk-edpc-gsf?pin=5451865967989&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
