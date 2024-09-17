@@ -3814,3 +3814,219 @@ Please do not edit this section.
 -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
 
 
+* DONE Raj/John
+:PROPERTIES:
+:LOCATION: https://us06web.zoom.us/j/85074639437?pwd=RqWjwmUMArCXay6TtMsUu1Y5kEdjBp.1
+:CREATED:  [2024-09-03 Tue 21:40]
+:Effort:   1:00
+:OLDID:    3494342i-1AB4281D-7F2C-4A0A-B651-B021C1D9E76A
+:END:
+- State "DONE"       from "TODO"       [2024-09-04 Wed 20:41]
+<2024-09-04 Wed 15:00-16:00>
+
+~==========================~
+You have been invited to a Zoom meeting:
+
+https://us06web.zoom.us/j/85074639437?pwd=RqWjwmUMArCXay6TtMsUu1Y5kEdjBp.1
+
+Meeting ID: 85074639437
+Password: lq917DpdW-
+
+One tap mobile:
++12532050468,,85074639437#,,,,0#,,1059160516# US
++13052241968,,85074639437#,,,,0#,,1059160516# US
++13092053325,,85074639437#,,,,0#,,1059160516# US
++13602095623,,85074639437#,,,,0#,,1059160516# US
++13863475053,,85074639437#,,,,0#,,1059160516# US
++15074734847,,85074639437#,,,,0#,,1059160516# US
++15642172000,,85074639437#,,,,0#,,1059160516# US
++16469313860,,85074639437#,,,,0#,,1059160516# US
++16694449171,,85074639437#,,,,0#,,1059160516# US
++16892781000,,85074639437#,,,,0#,,1059160516# US
++17193594580,,85074639437#,,,,0#,,1059160516# US
++13126266799,,85074639437#,,,,0#,,1059160516# US (Chicago)
++17207072699,,85074639437#,,,,0#,,1059160516# US (Denver)
++13462487799,,85074639437#,,,,0#,,1059160516# US (Houston)
++16465588656,,85074639437#,,,,0#,,1059160516# US (New York)
++12532158782,,85074639437#,,,,0#,,1059160516# US (Tacoma)
++13017158592,,85074639437#,,,,0#,,1059160516# US (Washington DC)
+
+Dial by your location:
++1 253 205 0468 US
++1 305 224 1968 US
++1 309 205 3325 US
++1 360 209 5623 US
++1 386 347 5053 US
++1 507 473 4847 US
++1 564 217 2000 US
++1 646 931 3860 US
++1 669 444 9171 US
++1 689 278 1000 US
++1 719 359 4580 US
++1 312 626 6799 US (Chicago)
++1 720 707 2699 US (Denver)
++1 346 248 7799 US (Houston)
++1 646 558 8656 US (New York)
++1 253 215 8782 US (Tacoma)
++1 301 715 8592 US (Washington DC)
+Find your local number: https://zoom.us/zoomconference
+~==========================~
+
+
+* TODO Ruhi Book 8
+SCHEDULED: <2024-09-17 Tue 20:00-21:00>
+:PROPERTIES:
+:LOCATION: https://us06web.zoom.us/j/81983054498?pwd=bjhDUDZxZHhkYTVkblkrWnlXWnZqQT09
+:Effort:   1:00
+:LAST_REPEAT: [2024-09-03 Tue 21:34]
+:CREATED:  [2024-09-03 Tue 21:33]
+:OLDID:    3494358i-2F512662-95E4-4F32-87BF-3711C93C9222
+:END:
+- State "DONE"       from "TODO"       [2024-09-03 Tue 20:24]
+
+~==========================~
+You have been invited to a Zoom meeting:
+
+https://us06web.zoom.us/j/81983054498?pwd=bjhDUDZxZHhkYTVkblkrWnlXWnZqQT09
+
+Meeting ID: 81983054498
+Password: *jUhWrDG4W
+
+One tap mobile:
++12532050468,,81983054498#,,,,0#,,1329167961# US
++13052241968,,81983054498#,,,,0#,,1329167961# US
++13092053325,,81983054498#,,,,0#,,1329167961# US
++13602095623,,81983054498#,,,,0#,,1329167961# US
++13863475053,,81983054498#,,,,0#,,1329167961# US
++15074734847,,81983054498#,,,,0#,,1329167961# US
++15642172000,,81983054498#,,,,0#,,1329167961# US
++16469313860,,81983054498#,,,,0#,,1329167961# US
++16694449171,,81983054498#,,,,0#,,1329167961# US
++16892781000,,81983054498#,,,,0#,,1329167961# US
++17193594580,,81983054498#,,,,0#,,1329167961# US
++13126266799,,81983054498#,,,,0#,,1329167961# US (Chicago)
++17207072699,,81983054498#,,,,0#,,1329167961# US (Denver)
++13462487799,,81983054498#,,,,0#,,1329167961# US (Houston)
++16465588656,,81983054498#,,,,0#,,1329167961# US (New York)
++12532158782,,81983054498#,,,,0#,,1329167961# US (Tacoma)
++13017158592,,81983054498#,,,,0#,,1329167961# US (Washington DC)
+
+Dial by your location:
++1 253 205 0468 US
++1 305 224 1968 US
++1 309 205 3325 US
++1 360 209 5623 US
++1 386 347 5053 US
++1 507 473 4847 US
++1 564 217 2000 US
++1 646 931 3860 US
++1 669 444 9171 US
++1 689 278 1000 US
++1 719 359 4580 US
++1 312 626 6799 US (Chicago)
++1 720 707 2699 US (Denver)
++1 346 248 7799 US (Houston)
++1 646 558 8656 US (New York)
++1 253 215 8782 US (Tacoma)
++1 301 715 8592 US (Washington DC)
+Find your local number: https://zoom.us/zoomconference
+~==========================~
+
+
+* Assembly Meeting
+:PROPERTIES:
+:CREATED:  [2024-09-03 Tue 21:43]
+:OLDID:    3494358i-AB7CE23D-8B51-4F56-A932-19664C541F3D
+:END:
+<2023-08-31 Thu 20:00-22:00>
+
+* Ideasoft Squad Weekly Sync
+:PROPERTIES:
+:CREATED:  [2024-09-03 Tue 21:43]
+:OLDID:    3494374i-41cavrt0valtetsuhh43cguquh_R20240819T170000@google.com
+:END:
+<2024-08-19 Mon 10:00-10:30>
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/jng-wrks-ase
+Or dial: (GR) +30 21 1198 1940 PIN: 822499658#
+More phone numbers: https://tel.meet/jng-wrks-ase?pin=5807250832752&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* CANCELED ZK Stand-Up
+:PROPERTIES:
+:CREATED:  [2024-09-10 Tue 17:08]
+:OLDID:    3494374i-vu8d0d3mpcch2cf9t94ihl0jl9_R20240910T191500@google.com
+:END:
+<2024-09-10 Tue 15:15-15:45>
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/vmd-bcuu-pnc
+Or dial: (US) +1 484-546-8070 PIN: 895692745#
+More phone numbers: https://tel.meet/vmd-bcuu-pnc?pin=2975225741059&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* BD <> Core Engineering 🚀
+:PROPERTIES:
+:CREATED:  [2024-09-14 Sat 22:59]
+:OLDID:    3494374i-3cjngqoep8k5ltu2n6l1rrfcgt_R20240919T161500@google.com
+:END:
+<2024-09-19 Thu 09:15-10:00>
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/khn-anux-qns
+Or dial: (US) +1 662-626-3313 PIN: 238319261#
+More phone numbers: https://tel.meet/khn-anux-qns?pin=6603040999558&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* TODO Hack-a-chain: Stand-up [Internal]
+SCHEDULED: <2024-09-24 Tue 09:15-09:45 +1w>
+:PROPERTIES:
+:CREATED:  [2024-09-03 Tue 21:37]
+:OLDID:    3494374i-5oj8tedefps76e9nlsb1grv63u_R20240903T161500@google.com
+:END:
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/but-udvg-nij
+Or dial: (US) +1 814-531-6089 PIN: 323298904#
+More phone numbers: https://tel.meet/but-udvg-nij?pin=1121864854983&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* TODO Eng Standup
+SCHEDULED: <2024-09-24 Tue 08:30-09:15 +1w>
+:PROPERTIES:
+:CREATED:  [2024-09-03 Tue 21:37]
+:OLDID:    3494374i-lgod44of2vfi4d426119539ltg_R20240903T153000@google.com
+:END:
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/npx-mznk-yth
+Or dial: (US) +1 319-435-9117 PIN: 869007855#
+More phone numbers: https://tel.meet/npx-mznk-yth?pin=8637651339384&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
