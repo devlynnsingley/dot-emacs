@@ -4030,3 +4030,234 @@ Please do not edit this section.
 -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
 
 
+* Perspicuous meeting
+:PROPERTIES:
+:LOCATION: https://us06web.zoom.us/j/9020237434?pwd=SmhVRjI4UUN5RXlybTJNSmhxMnQ4dz09&omn=85640905584
+:CREATED:  [2024-09-03 Tue 21:43]
+:OLDID:    3494342i-5ppecslmmtd86meqc0lgn69007_R20240604T200000@google.com
+:END:
+<2024-06-04 Tue 16:00-17:00>
+
+* TODO Stuart <> John
+SCHEDULED: <2024-09-19 Thu 12:00-12:50 +2w>
+:PROPERTIES:
+:CREATED:  [2024-09-03 Tue 21:39]
+:Effort:   1:00
+:OLDID:    3494374i-0cq26vbibs20dq6v1aoak620tj@google.com
+:END:
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/ewn-udmj-pgh
+Or dial: (US) +1 321-430-1203 PIN: 510756205#
+More phone numbers: https://tel.meet/ewn-udmj-pgh?pin=4182989877904&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* TODO CTO Meeting
+SCHEDULED: <2024-10-01 Tue 10:00-11:00 +2w>
+:PROPERTIES:
+:CREATED:  [2024-09-03 Tue 21:43]
+:OLDID:    3494374i-31uou88o9uarsq4vq4cvbhuc1l_R20240820T170000@google.com
+:END:
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/tsq-zbho-zxo
+Or dial: (US) +1 910-853-0115 PIN: 366167161#
+More phone numbers: https://tel.meet/tsq-zbho-zxo?pin=4158029971600&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* TODO Hack-a-chain: Stand-up [Internal]
+SCHEDULED: <2024-09-24 Tue 09:15-09:45 +1w>
+:PROPERTIES:
+:CREATED:  [2024-09-03 Tue 21:37]
+:OLDID:    3494374i-5oj8tedefps76e9nlsb1grv63u_R20240903T161500@google.com
+:END:
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/but-udvg-nij
+Or dial: (US) +1 814-531-6089 PIN: 323298904#
+More phone numbers: https://tel.meet/but-udvg-nij?pin=1121864854983&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* TODO Eng Standup
+SCHEDULED: <2024-09-24 Tue 08:30-09:15 +1w>
+:PROPERTIES:
+:CREATED:  [2024-09-03 Tue 21:37]
+:OLDID:    3494374i-lgod44of2vfi4d426119539ltg_R20240903T153000@google.com
+:END:
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/npx-mznk-yth
+Or dial: (US) +1 319-435-9117 PIN: 869007855#
+More phone numbers: https://tel.meet/npx-mznk-yth?pin=8637651339384&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* DONE Department Roadmap Review: Core Eng & Solutions
+:PROPERTIES:
+:LOCATION: Arlo Hotel Studio 1 Meeting Room
+:CREATED:  [2024-09-06 Fri 22:36]
+:OLDID:    3494374i-2dgcnrsim4vfgi3bjahoq18k72@google.com
+:END:
+<2024-09-12 Thu 11:30-12:45>
+
+~=~
+Join with Google Meet: https://meet.google.com/sqm-xtwv-bvj
+Or dial: (US) +1 575-322-5942 PIN: 949093279#
+More phone numbers: https://tel.meet/sqm-xtwv-bvj?pin=6805090907388&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/sqm-xtwv-bvj
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+* DONE Department Roadmap Review: BD & Marketing
+:PROPERTIES:
+:LOCATION: Arlo Hotel Studio 1 Meeting Room
+:CREATED:  [2024-09-06 Fri 22:36]
+:OLDID:    3494374i-2pk8qsvdev47j9ms8q5ak78qmm@google.com
+:END:
+<2024-09-12 Thu 10:00-11:30>
+
+~=~
+Join with Google Meet: https://meet.google.com/qnd-zraa-dqz
+Or dial: (US) +1 704-705-7059 PIN: 806305811#
+More phone numbers: https://tel.meet/qnd-zraa-dqz?pin=2801125459857&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/qnd-zraa-dqz
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+* DONE Break
+:PROPERTIES:
+:CREATED:  [2024-09-06 Fri 22:36]
+:OLDID:    3494374i-5mi9b229536k7hgo4gqmuosghg@google.com
+:END:
+<2024-09-12 Thu 11:15-11:30>
+
+~=~
+Join with Google Meet: https://meet.google.com/okk-uewv-otc
+Or dial: (US) +1 305-912-2740 PIN: 951849165#
+More phone numbers: https://tel.meet/okk-uewv-otc?pin=4838248391694&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/okk-uewv-otc
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+* TODO Pact Posse
+SCHEDULED: <2024-09-24 Tue 11:30-12:15 +1w>
+:PROPERTIES:
+:CREATED:  [2024-09-09 Mon 17:14]
+:OLDID:    3494374i-6bph1p94abl15u0h0o3ehd564p_R20240910T183000@google.com
+:END:
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/zqk-edpc-gsf
+Or dial: (US) +1 636-452-0179 PIN: 216499462#
+More phone numbers: https://tel.meet/zqk-edpc-gsf?pin=5451865967989&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* TODO John / Leah 1:1
+SCHEDULED: <2024-10-10 Thu 15:30-16:00 +2w>
+:PROPERTIES:
+:CREATED:  [2024-09-09 Mon 17:14]
+:Effort:   0:30
+:OLDID:    3494374i-m3gohe8m15bkhmdkjd38d9ur2l_R20241010T193000@google.com
+:END:
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/yse-uqvf-cge
+Or dial: (US) +1 413-276-7485 PIN: 531860944#
+More phone numbers: https://tel.meet/yse-uqvf-cge?pin=8356145028177&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* CANCELED ZK Stand-Up
+:PROPERTIES:
+:CREATED:  [2024-09-10 Tue 17:08]
+:OLDID:    3494374i-vu8d0d3mpcch2cf9t94ihl0jl9_R20240910T191500@google.com
+:END:
+<2024-09-10 Tue 12:15-12:45>
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/vmd-bcuu-pnc
+Or dial: (US) +1 484-546-8070 PIN: 895692745#
+More phone numbers: https://tel.meet/vmd-bcuu-pnc?pin=2975225741059&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
+* BD <> Core Engineering 🚀
+:PROPERTIES:
+:CREATED:  [2024-09-14 Sat 22:59]
+:OLDID:    3494374i-3cjngqoep8k5ltu2n6l1rrfcgt_R20240919T161500@google.com
+:END:
+<2024-09-19 Thu 09:15-10:00>
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/khn-anux-qns
+Or dial: (US) +1 662-626-3313 PIN: 238319261#
+More phone numbers: https://tel.meet/khn-anux-qns?pin=6603040999558&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+
+
