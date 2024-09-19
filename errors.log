@@ -1,0 +1,21 @@
+init.el:1905:17: Warning: reference to free variable ‘vertico-multiform-categories’
+init.el:1905:17: Warning: assignment to free variable ‘vertico-multiform-categories’
+init.el:2408:2: Warning: Package cl is deprecated
+ad-handle-definition: ‘text-scale-increase’ got redefined
+ad-handle-definition: ‘ibuffer-do-replace-regexp’ got redefined
+ad-handle-definition: ‘ibuffer-do-occur’ got redefined
+init.el:3410:2: Warning: Use ‘with-current-buffer’ rather than save-excursion+set-buffer
+init.el:3410:2: Warning: Use ‘with-current-buffer’ rather than save-excursion+set-buffer
+init.el:3613:17: Warning: reference to free variable ‘vertico-multiform-commands’
+init.el:3613:17: Warning: assignment to free variable ‘vertico-multiform-commands’
+ad-handle-definition: ‘sort-regexp-fields’ got redefined
+ad-handle-definition: ‘hippie-expand’ got redefined
+init.el:6564:9: Warning: assignment to free variable ‘org-babel-default-header-args:sh’
+init.el:6565:9: Warning: assignment to free variable ‘org-babel-default-header-args:bash’
+init.el:6566:9: Warning: assignment to free variable ‘org-babel-default-header-args:shell’
+init.el:6567:9: Warning: assignment to free variable ‘org-babel-default-header-args:jupyter-python’
+Created x-devonthink-item link.
+‘org-odt-extra-styles’ not found.  Upgrade to ‘ox-odt-9.5.3.467’ or later.
+‘org-odt-extra-styles’ and ‘org-ods-automatic-styles’ is updated for this session
+‘org-odt-extra-styles’ and ‘org-ods-automatic-styles’ is updated for this session
+ATTENTION: org-noter-djvu needs the package ‘djvu’
